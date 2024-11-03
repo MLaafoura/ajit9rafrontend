@@ -6,3 +6,10 @@ body {
     -moz-osx-font-smoothing: grayscale;
   }
   
+.login-form{
+    width:40%;
+    height:auto;
+    background-color: white;
+    margin:auto;
+    margin-top:8rem;
+}
